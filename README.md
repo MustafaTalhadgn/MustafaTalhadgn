@@ -1,6 +1,6 @@
 # Mustafa Talha Doğan — Web Security & Cybersecurity Enthusiast
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafatalhadogan/) 
-[![Mail](https://img.shields.io/badge/Email-dgn.mustafatalha%40gmail.com-blue?style=flat&logo=gmail)](mailto:dgn.mustafatalha@gmail.com)
+[![Mail](https://img.shields.io/badge/Email-mtdogan.mail%40gmail.com-blue?style=flat&logo=gmail)](mailto:mtdogan.mail@gmail.com  )
 [![GitHub](https://img.shields.io/badge/GitHub-MustafaTalhadgn-181717?style=flat&logo=github)](https://github.com/MustafaTalhadgn)
 
 > **Web Security · Penetration Testing · Secure Development**  

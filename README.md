@@ -92,8 +92,9 @@ Technical reporting · Executive summaries · Team collaboration
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MustafaTalhadgn&theme=gruvbox&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaTalhadgn&layout=compact&theme=gruvbox)
 
----
 <!---
+---
+
 ## 🛡️ Badges & Visuals (suggested)
 - Add TryHackMe badges (if you have them).  
 - Add HackTheBox rank / HTB profile if available.  

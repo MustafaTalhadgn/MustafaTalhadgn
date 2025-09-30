@@ -48,7 +48,7 @@ Technical reporting · Executive summaries · Team collaboration
 - Focus: Web Security, Pentest, Malware Analysis, Reverse Engineering; team-based vulnerability assessments and technical documentation. 
 
 ---
-
+<!---
 ## 📁 Selected Projects (add project READMEs / PoCs & reports)
 > *Put detailed writeups in each repo. A good project entry has: 1-line summary • tools • PoC screenshot • remediation or learning.*
 
@@ -59,7 +59,8 @@ Technical reporting · Executive summaries · Team collaboration
 - <!---**(suggested) netscan-to-csv** — Python Nmap wrapper that exports CSV reports (add).  
 - <!---**(suggested) wireshark-http-analysis** — Wireshark lab + short report (add).
 
----
+----
+--->
 
 ## 🎓 Certifications & Training
 - **Certified Associate Penetration Tester (CAPT)** hackviser. 

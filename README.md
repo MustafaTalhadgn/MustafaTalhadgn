@@ -54,10 +54,12 @@ Here are my key contributions demonstrating **Offensive Research** and **Defensi
 
 ### 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=MustafaTalhadgn&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaTalhadgn&layout=compact&theme=radical&hide_border=true)
-
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MustafaTalhadgn&theme=radical&hide_border=true" alt="Mustafa's Streak" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaTalhadgn&layout=compact&theme=radical&hide_border=true&exclude_repo=python-oklid,web-Bootstrap" alt="Top Langs" />
+</div>
 
 ### 📬 Connect with me
 

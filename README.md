@@ -37,9 +37,9 @@ Here are my key contributions demonstrating **Offensive Research** and **Defensi
 | Repository | Description | Domain |
 | :--- | :--- | :--- |
 | 🛡️ **[Penetration-Testing-Portfolio](https://github.com/MustafaTalhadgn/Penetration-Testing-Portfolio)** | Professional **Black-Box & Gray-Box** penetration test reports. Includes CVSS scoring, executive summaries, and remediation plans. | *Offensive / Reporting* |
-| 🔒 **[Secure-Coding-Lab-PHP](https://github.com/MustafaTalhadgn/Secure-Coding-Lab-PHP)** | A vulnerable ticket sales application patched to demonstrate **Secure Coding** practices. Contains documented exploits and their fixes (Red vs Blue). | *Defensive / AppSec* |
+| 🔒 **[Secure-Coding-Lab-PHP](https://github.com/MustafaTalhadgn/Vulnerable-Ticket-App-Patching)** | A vulnerable ticket sales application patched to demonstrate **Secure Coding** practices. Contains documented exploits and their fixes (Red vs Blue). | *Defensive / AppSec* |
 | 🧅 **[Go-Threat-Intel-Scraper](https://github.com/MustafaTalhadgn/Tor-Scraper)** | An automated **CTI tool written in Go** that scrapes and monitors onion services (Dark Web) via Tor Proxy to detect data leaks. | *Threat Intel / Tooling* |
-| 🧩 **[Reverse-Engineering-Projects](https://github.com/MustafaTalhadgn/Reverse-Engineering-Projects)** | Analysis of binary exploitation challenges, malware behavior, and static analysis reports using IDA Pro & x64dbg. | *Malware Analysis* |
+| 🧩 **[Reverse-Engineering-Projects](https://github.com/MustafaTalhadgn/Reverse-Engineering-and-Malware-Analysis)** | Analysis of binary exploitation challenges, malware behavior, and static analysis reports using IDA Pro & x64dbg. | *Malware Analysis* |
 
 ---
 

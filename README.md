@@ -54,10 +54,8 @@ Here are my key contributions demonstrating **Offensive Research** and **Defensi
 
 ### 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MustafaTalhadgn&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Mustafa's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaTalhadgn&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Langs" width="45%" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=MustafaTalhadgn&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaTalhadgn&layout=compact&theme=radical&hide_border=true)
 
 ---
 
